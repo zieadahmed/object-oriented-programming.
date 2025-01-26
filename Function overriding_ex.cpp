@@ -13,8 +13,4 @@ public:
  string speak() { 
   return "Cat"; 
 }
-int main(){
 
-    return 0;
-}
-}
